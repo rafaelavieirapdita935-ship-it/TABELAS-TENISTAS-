@@ -1,0 +1,27 @@
+<html>
+<!DOCTYPE html>
+            <head>
+                 <title>TABELAS</title>
+         </head>
+         <body> 
+            <table>
+                <tr>
+
+               <h1></h1><td>10 MAIORES TENISTAS DO MUNDO MASCULINO</td> </h1>
+                <td> 1º Jannik Sinner
+                    2ºCarlos Alcaraz
+                    3ºAlexander Zverev 
+                    4ºTaylor Fritz
+                    5ºJack Draper
+                    6ºJack Draper
+                    7ºNovak Djokovic
+                    8ºAlex de Minaur
+                    9ºKaren Khachanov
+                    10ºLorenzo Musetti
+                    ESSES SÃO OS DEZ MELHORES TENISTAS DO MUNDO NO MASCULINO! 
+
+
+                </td>
+            </table>
+         </body>
+</html>
